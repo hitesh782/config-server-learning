@@ -1,5 +1,0 @@
-example:
-  message: "This is the default message."
-
-server:
-  port: 9057
