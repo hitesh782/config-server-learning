@@ -1,0 +1,6 @@
+
+example:
+  message: "This is the Dev message."
+
+server:
+  port: 9058
