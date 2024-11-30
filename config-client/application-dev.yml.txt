@@ -1,3 +1,6 @@
+spring:
+  application:
+    name: config-client
 
 example:
   message: "This is the Dev message."
