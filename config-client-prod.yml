@@ -1,2 +1,5 @@
 example:
   message: "This is the prod message."
+
+server:
+  port: 9059
